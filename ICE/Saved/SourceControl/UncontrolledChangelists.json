@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Martina Desktop/UnrealSource/UnrealPortfolio/ICE/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Martina Desktop/UnrealSource/UnrealPortfolio/ICE/Content/TopDown/Maps/DemoLevel.umap",
+				"C:/Users/Martina Desktop/UnrealSource/UnrealPortfolio/ICE/Content/__ExternalActors__/TopDown/Maps/TopDownMap/9/FY/45JOQ38QR4K2P62IGCH99F.uasset",
+				"C:/Users/Martina Desktop/UnrealSource/UnrealPortfolio/ICE/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/43/KCOU8O5LTCF16FPA9RNLK8.uasset"
+			]
+		}
+	]
+}

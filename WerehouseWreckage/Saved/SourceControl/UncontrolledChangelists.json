@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Martina Desktop/UnrealSource/UnrealPortfolio/WerehouseWreckage/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Martina Desktop/UnrealSource/UnrealPortfolio/WerehouseWreckage/Content/StarterContent/Maps/StarterMap.umap",
+				"C:/Users/Martina Desktop/UnrealSource/UnrealPortfolio/WerehouseWreckage/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"C:/Users/Martina Desktop/UnrealSource/UnrealPortfolio/WerehouseWreckage/Content/StarterContent/Props/Materials/M_TableRound.uasset",
+				"C:/Users/Martina Desktop/UnrealSource/UnrealPortfolio/WerehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap",
+				"C:/Users/Martina Desktop/UnrealSource/UnrealPortfolio/WerehouseWreckage/Content/StarterContent/Blueprints/Projectile_BP.uasset",
+				"C:/Users/Martina Desktop/UnrealSource/UnrealPortfolio/WerehouseWreckage/Content/StarterContent/Maps/Warehouse.umap",
+				"C:/Users/Martina Desktop/UnrealSource/UnrealPortfolio/WerehouseWreckage/Content/Warehouse/WarehouseLevel.umap"
+			]
+		}
+	]
+}
